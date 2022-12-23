@@ -1,3 +1,7 @@
+/*
+ Refazendo o Exercício 2 de uma forma mais correta e explicita
+ */
+
 
 import java.util.Scanner;
 

@@ -19,7 +19,8 @@ public class Ex2_Nota {
             System.out.println("Digite uma nota: ");
             nota = scan.nextInt();
             
-            //Após entrar no while, irá checar se a entra corresponde a esse Se,
+            //Após entrar no while, irá checar se a nota entra e corresponde a esse Se,
+            //Se corresponder então encerra o programa
             //se for verdade encerra o programa (break), senão for exibe o else
             if(nota > 0 && nota < 10){
                 System.out.println("Nota aceita!");

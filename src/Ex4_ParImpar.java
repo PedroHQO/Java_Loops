@@ -20,7 +20,7 @@ public class Ex4_ParImpar {
         int numPares = 0, numImpares = 0;
         //Variavel que faz o controle das vezes escolhidas pelo o usario no while
         int cont = 0;
-
+        //Digitar a quantidade de numeros que será checada pelo o programa
         System.out.println("Quantidade de numeros: ");
         quantNumero = sc.nextInt();
         

@@ -29,7 +29,8 @@ public class Ex3_MaiorEMedia {
             count++;
 
             soma = soma + numero;
-
+            //Se Numero for maior que (maior), então a variavel maior assumira o valor
+            //do numero digitado
             if(numero > maior)maior = numero;
 
             

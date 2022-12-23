@@ -13,9 +13,11 @@ public class Ex_NomeIdade {
         String nome;
         int idade;
 
+        //Enquanto for verdade, vai pedir nome(String) e idade(int)
        while (true) {
         System.out.println("Nome: ");
         nome = scan.next();
+        //Se colocar 0 no lugar de uma String vai para o programa
         if(nome.equals("0")) break;
 
         System.out.println("Idade: ");

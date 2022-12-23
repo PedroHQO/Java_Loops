@@ -26,7 +26,7 @@ public class Ex5_Tabuada {
         System.out.println("Digite um número entre 1 e 10 para tabuada aparecer: ");
         num = sc.nextInt();
 
-        
+        //Imprimi a mensagem Tabuada e o numero que será apresentado
         System.out.println("Tabuada de " + num);
         // Para N: começa com o valor 1; continua enquanto n for menor ou igual a 0, quantidade de passos é de 1 em 1
         for(int n = 1 ; n <= 10 ; n++ ){

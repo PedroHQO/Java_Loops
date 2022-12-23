@@ -21,7 +21,9 @@ public class ex6_Fatorial {
         numFat = sc.nextInt();
         
         // para (começa com o valor; termina com o valor; sequencia de passos para chegar no valor que termina)
+        //para (começa com o valor i = variavel numFat; enquanto i(numFat) for maior/igual 1; vai subtraindo -1 de numFat)
         for(int i = numFat ; i >= 1 ; i-- ){
+            //multiplicação = multiplicacao(1) * i(numFat), isso vai se repetir para todos os numeros numFat
             multiplicacao = multiplicacao * i;
 
         }
