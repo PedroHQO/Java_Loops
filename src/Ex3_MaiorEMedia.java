@@ -4,6 +4,7 @@ mostre o maior entre eles
 e a média 
 */
 
+//Método para obter entrada pelo o teclado
 import java.util.Scanner;
 
 

@@ -1,6 +1,7 @@
 //Faça um programa que peça uma nota entre 0 e 10, caso seja diferente do pedido
 //mostre uma mensagem e continue pedindo a nota até que seja igual ao pedido.
 
+//Método para obter entrada pelo o teclado
 import java.util.Scanner;
 
 public class Ex2_Nota {

@@ -14,7 +14,7 @@
  */
 
 
-
+//Método para obter entrada pelo o teclado
 import java.util.Scanner;
 
 public class Ex5_Tabuada {

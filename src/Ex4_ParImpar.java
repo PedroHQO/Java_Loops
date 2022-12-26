@@ -4,7 +4,7 @@
  a quantidade de numeros impares
  */
 
-
+//Método para obter entrada pelo o teclado
 import java.util.Scanner;
 
 public class Ex4_ParImpar {

@@ -2,7 +2,7 @@
  Refazendo o Exercício 2 de uma forma mais correta e explicita
  */
 
-
+//Método para obter entrada pelo o teclado
 import java.util.Scanner;
 
 public class Ex2_NotaNovo {

@@ -4,7 +4,7 @@ Ex. 5! = 120 (5 x 4 x 3 x 2 x 1 )
  */
 
 
-
+//Método para obter entrada pelo o teclado
 import java.util.Scanner;
 
 public class ex6_Fatorial {
